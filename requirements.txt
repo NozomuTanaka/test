@@ -26,8 +26,6 @@ Jinja2==2.10
 Keras==2.2.4
 Keras-Applications==1.0.6
 Keras-Preprocessing==1.0.5
-Kivy==1.10.1
-Kivy-Garden==0.1.4
 kiwisolver==1.0.1
 macholib==1.11
 Markdown==3.0.1
